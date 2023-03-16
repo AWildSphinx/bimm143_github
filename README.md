@@ -8,11 +8,11 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 7: [Machine Learning for Bioinformatics 1](https://github.com/AWildSphinx/bimm143_github/blob/main/Class07/Class07.md)
 
-- Class 8: [Unsupervised Learning mini-project]()
+- Class 8: [Unsupervised Learning mini-project](https://github.com/AWildSphinx/bimm143_github/blob/main/Class08_Mini_Project/Class08_Mini_project.md)
 
-- Class 9: [Structural Bioinformatics (Alphafold)]()
+- Class 9: [Structural Bioinformatics (Alphafold)](https://github.com/AWildSphinx/bimm143_github/blob/main/Class09/class09.md)
 
-- Class 10:[Unsupervised Learning Candy Project]()
+- Class 10:[Unsupervised Learning Candy Project](https://github.com/AWildSphinx/bimm143_github/blob/main/Class10/class10.md)
 
 - Class 11:[Genome Informatics and High Throughput Sequencing]()
 
