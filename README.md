@@ -4,7 +4,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 5: [Data visualization with ggplot2](https://github.com/AWildSphinx/bimm143_github/blob/main/Class05/Class05.md)
 
-- Class 6: [R Functions]()
+- Class 6: [R Functions](https://github.com/AWildSphinx/bimm143_github/blob/main/Class%2006/Class%2006.md)
 
 - Class 7: [Machine Learning for Bioinformatics 1](https://github.com/AWildSphinx/bimm143_github/blob/main/Class07/Class07.md)
 
