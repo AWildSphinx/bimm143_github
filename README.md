@@ -16,7 +16,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 11:[Genome Informatics and High Throughput Sequencing](https://github.com/AWildSphinx/bimm143_github/blob/main/Class11/Class11.md)
 
-- Class 12:[Transcriptomics, RNA-Seq Analysis, and the Interpretation of Gene Lists]()
+- Class 12:[Transcriptomics, RNA-Seq Analysis, and the Interpretation of Gene Lists](https://github.com/AWildSphinx/bimm143_github/blob/main/Class12/Class12.md)
 
 - Class 13:[RNA-Seq mini-project]()
 
