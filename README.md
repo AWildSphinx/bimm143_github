@@ -28,4 +28,4 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 19:[Investigating Pertussis Resurgence mini-project](https://github.com/AWildSphinx/bimm143_github/blob/main/class19/class19.md)
 
-- Final Project:
+- Final Project:[Find a Gene Project](https://github.com/AWildSphinx/bimm143_github/blob/main/Find_a_Gene_Kosareff_Final.pdf)
